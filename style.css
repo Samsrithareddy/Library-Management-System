@@ -1,0 +1,25 @@
+
+body{
+    background:#f5f5f5;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    margin-bottom:20px;
+}
+
+.card{
+    border-radius:10px;
+}
+
+table{
+    background:#fff;
+}
+
+.btn{
+    margin-right:5px;
+}
+
+h1,h2{
+    color:#333;
+}
